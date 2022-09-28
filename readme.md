@@ -52,5 +52,5 @@ npm run dev
 
 
  ### PROBLEMAS:
- Formatação
+ Formatação <br>
  Fivicon que não aparece
